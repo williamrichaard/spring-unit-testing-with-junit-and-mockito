@@ -109,7 +109,6 @@ class UserServiceImplTest {
     void whenCreateThenReturnAnDataIntegrityViolationException() {
         when(repository.findByEmail(anyString())).thenReturn(optionalUser);
 
-
         try{
             optionalUser.get().setId(2);
             service.create(userDTO);
