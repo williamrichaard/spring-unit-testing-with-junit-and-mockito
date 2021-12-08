@@ -1,10 +1,5 @@
 <!-- PROJECT LOGO -->
 <br />
-<div align="center">
-  <a href="https://github.com/williamrichaard/spring-unit-testing-with-junit-and-mockito">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
-
   <h3 align="center">Unit Testing with Spring, JUnit and Mockito</h3>
 
   <p align="center">
@@ -28,7 +23,7 @@
 
 <div align="center">
   <a href="https://github.com/williamrichaard/spring-unit-testing-with-junit-and-mockito">
-    <img src="images/logo.png" alt="Logo">
+    <img src="images/unit-test-img.png" alt="Logo">
   </a>
 </div>
 
@@ -85,7 +80,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [Linkedin](https://www.linkedin.com/in/williamrichaard/) - wrichaard@hotmail.com
+William Richard - [Linkedin](https://www.linkedin.com/in/williamrichaard/) - wrichaard@hotmail.com
 
 Project Link: [Unit testing with junit and mockito](https://github.com/williamrichaard/spring-unit-testing-with-junit-and-mockito)
 
