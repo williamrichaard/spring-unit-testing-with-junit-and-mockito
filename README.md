@@ -22,7 +22,7 @@
 ## About The Project
 
 <div align="center">
-  <a href="https://github.com/williamrichaard/spring-unit-testing-with-junit-and-mockito">
+  <a href="https://github.com/williamrichaard/spring-unit-testing-with-junit-and-mockito/blob/main/images/unit-test-img.png?raw=true">
     <img src="images/unit-test-img.png" alt="Logo">
   </a>
 </div>
